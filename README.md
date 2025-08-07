@@ -14,16 +14,16 @@ The objective is to build a supervised machine learning model that predicts if a
 
 IBM-Skillsbuild-Capstone-Project/
 │
-├── User_add_click_prediction.ipynb # Main notebook: EDA, preprocessing, model training
-├── appflask.py # Flask web app for prediction
-├── Main.py # Entry point (if used for deployment)
-├── model_pred1.pkl # Trained ML model (pickled)
-├── dataset.pkl # Pickled dataset (optional)
-├── Social_Network_Ads.csv # Dataset used for training/testing
-├── User_Ad_Click_Prediction_Capstone_Project.pptx # Presentation slides
-├── virtualEnv/ # Virtual environment files
-├── pycache/ # Python cache files
-└── README.md # Project documentation (you're here)
+- ├── User_add_click_prediction.ipynb # Main notebook: EDA, preprocessing, model training
+- ├── appflask.py # Flask web app for prediction
+- ├── Main.py # Entry point (if used for deployment)
+- ├── model_pred1.pkl # Trained ML model (pickled)
+- ├── dataset.pkl # Pickled dataset (optional)
+- ├── Social_Network_Ads.csv # Dataset used for training/testing
+- ├── User_Ad_Click_Prediction_Capstone_Project.pptx # Presentation slides
+- ├── virtualEnv/ # Virtual environment files
+- ├── pycache/ # Python cache files
+- └── README.md # Project documentation (you're here)
 
 yaml
 Copy
